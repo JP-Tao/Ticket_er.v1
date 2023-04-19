@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ticket-er 1.0</string>
+    <!-- Nav bar header strings -->
+    <string name="nav_header_title">Username</string>
+    <string name="nav_header_subtitle">user@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Nav Bar string items -->
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_history">Ticket History</string>
+    <string name="menu_settings">Settings</string>
+</resources>
